@@ -1,10 +1,10 @@
-
+import Header from './containers/Header';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
-      <h1>gg</h1>
+      <Header/>
     </div>
   );
 }
